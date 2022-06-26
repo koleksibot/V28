@@ -30,7 +30,7 @@
         "moment-timezone": "^0.5.32",
         "multistream": "^4.0.1",
         "needle": "^2.5.2",
-        "node-fetch": "^2.6.1",
+        "node-fetch": "^2.6.7",
         "performance-now": "^2.1.0",
         "request": "^2.88.2",
         "sender": "0.0.1",
